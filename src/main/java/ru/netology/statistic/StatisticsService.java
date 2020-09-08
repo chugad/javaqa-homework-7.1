@@ -16,3 +16,4 @@ public class StatisticsService {
         return current_max;
     }
 }
+/*https://www.jacoco.org/jacoco/trunk/doc/counters.html*/
